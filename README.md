@@ -37,14 +37,14 @@ To replicate this project on your local machine, follow the steps below:
    cd Helmet_Detection
    ```
 
-2. **Install dependencies**:
-   Use `pip` or a virtual environment to install the required libraries.
+2. **Set up the environment**:  
+   Ensure the required libraries (TensorFlow, OpenCV, Matplotlib, NumPy, etc.) are installed in your environment. Install missing libraries using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install tensorflow opencv-python matplotlib numpy
    ```
 
 3. **Run the notebook**:
-   Open the Jupyter Notebook and run each cell in sequence.
+   Open the Jupyter Notebook and execute each cell in sequence:
    ```bash
    jupyter notebook Helmet_Detection(Complete).ipynb
    ```
