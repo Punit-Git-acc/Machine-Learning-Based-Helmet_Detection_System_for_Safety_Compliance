@@ -14,7 +14,6 @@
 4. [Features](#features)
 5. [Technologies Used](#technologies-used)
 6. [Visualizations](#visualizations)
-7. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -99,9 +98,3 @@ The notebook includes visualizations like:
 - **Training Loss/Accuracy Graphs**
 - **Prediction Outputs on Images**
 - **Real-time Detection Previews**
-
----
-
-## Acknowledgements
-
-Special thanks to resources, datasets, and libraries that made this project possible.
